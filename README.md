@@ -3,13 +3,13 @@ I am Iftekharul Alam
 - I am a Software Enigineer with skills in developing Software, IOT systems and Embedded products.
 - Skilled in Microcontrollers firmware development (STM32, ESP32,ESP8266, Arduino),
 - Platforms: Firmware development for Raspberry Pi, Beaglebone, ESP32, STM32, Arduino Raspberry Pi Pico W, Arduino 
-Language: C/C++, Python, Java 
-Wired Communication Protocols: UART, I2C, SPI
-IoT development using Azure IoT 
-Web Technologies: Django, React, Javascript, HTML, CSS 
-Database Technologies: mysql 
-Mobile App Technologies : Flutter 
-Real-time OSs: FreeRTOS, mbed OS, CIMSIS
+- Language: C/C++, Python, Java 
+- Wired Communication Protocols: UART, I2C, SPI
+- IoT development using Azure IoT 
+- Web Technologies: Django, React, Javascript, HTML, CSS 
+- Database Technologies: mysql 
+- Mobile App Technologies : Flutter 
+- Real-time OSs: FreeRTOS, mbed OS, CIMSIS
 <!--
 **IftekharulAlam/IftekharulAlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
