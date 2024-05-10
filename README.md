@@ -3,7 +3,7 @@ I am Iftekharul Alam
 - Software Enigineer with skills in developing Software, IOT systems and Embedded products.
 - Skilled in Microcontrollers firmware development (STM32, ESP32,ESP8266, Arduino),
 - Platforms: Firmware development for Raspberry Pi, Beaglebone, ESP32, STM32, Arduino Raspberry Pi Pico W, Arduino 
-- Language: C/C++, Python, Java 
+- Language: C/C++, Python, Java, Dart
 - Wired Communication Protocols: UART, I2C, SPI
 - IoT development using Azure IoT 
 - Web Technologies: Django, React, Javascript, HTML, CSS 
